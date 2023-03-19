@@ -1,0 +1,134 @@
+body{
+    background-color: darkgrey;
+    border: 10px groove greenyellow;
+}
+
+
+.form1{
+    /* border-style: dashed;
+    border-color: red; */
+    border: 3px dashed red;
+
+}
+.formcontainer{
+    margin-top: 100px;
+    margin-left: 300px;
+
+}
+.col{
+    color: red;
+}
+.container{
+   display: flex;
+   flex-wrap: wrap; 
+   
+    
+}
+.container1{
+    border: 1px solid green;
+    border-radius: 20%;
+    background-color: aqua;
+    color: blue;
+    align-items: center;
+    
+}
+.container2{
+    border: 1px solid green;
+    border-radius: 10%;
+    margin: 30px;
+    background-color: aqua;
+    color: blue;
+    align-content: center;
+}
+.container3{
+    border: 1px solid green;
+    border-radius: 10%;
+    margin: 30px;
+    background-color: aqua;
+    color: blue;
+}
+.container4{
+    border: 1px solid green;
+    border-radius: 10%;
+    margin: 30px;
+    background-color: aqua;
+    color: blue;
+}
+.container5{
+    border: 1px solid green;
+    border-radius: 10%;
+    margin: 30px;
+    background-color: aqua;
+    color: blue;
+}
+.container6{
+    border: 1px solid green;
+    border-radius: 10%;
+    margin: 30px;
+    background-color: aqua;
+    color: blue;
+}
+.cont{
+    display:flex;
+    flex-wrap: wrap;
+    column-gap: 100px;
+    text-align: center;
+    position: relative;
+}
+.Cont1{
+    
+    color: white;
+    margin: 50px;
+    padding: 10px;
+}
+.Cont2{
+    
+    color: white;
+    margin-left: 190px;
+    margin-top: 50px ;
+    padding: 10px;
+    position: absolute;
+}
+.Cont3{
+    color: white;
+    row-gap: 30px;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.cir{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+    margin-top: 500px;
+    margin-left: 100px;
+}
+.Cont{
+    border: 7px solid red;
+    border-radius: 10%;
+    background-color: black;
+}
+.div1{
+    display: flex;
+    width: 100%;
+    height: 800px;
+}
+.butt{
+    /* display: flex;
+    border: 7px solid red;
+    border-radius: 10%;
+    background-color: black;
+    color: aliceblue;
+    justify-content: center;
+    padding: 1px;
+    margin: 10px; */
+    border: 3px solid black;
+    background-color: red;
+    margin-left: 500px;
+    border-radius: 10%;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
